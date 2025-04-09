@@ -7,47 +7,61 @@ It is designed to deconstruct, generate, and evolve narrative using **interlocki
 
 ## Core Features
 
-- 10 Modular Core Engines (Structure, Voice, Emotion, etc.)
-- 60 Submodules mapped to hexagonal edges
-- Connection logic for merging modules into hybrid systems
-- Canon and context-sensitive shard architecture
-- Visual UI mockups and 3D shard arrays
-- Expandable, author-directed design philosophy
+- 10 Hexagonal Core Modules (Structure, Voice, Emotion, etc.)
+- 60 Submodules, each mapped to a hex edge
+- Hybrid logic generation through modular side-connection
+- Contextual shard-link system for scalable storytelling
+- Visual mockups for UI and 3D narrative arrays
+- Designed for authorial control and recursive creativity
 
 ---
 
 ## Visual System
 
-Modules are displayed as hexes.  
-Each side is a function.  
-Any two modules can **connect on matching sides**, forming **new sub-functional logic** (e.g. `Plot + Mood → Emotional Arc`).
+Modules are represented as hexagons.  
+Each side is a functional submodule.  
+Modules connect on shared edges to form **composite narrative functions** —  
+e.g. `Plot + Mood → Emotional Arc`
 
 ---
 
-## Project Assets
+## Included Assets
 
-- `SHATTERCORE_KnowledgeBase_v1.0.md` — system overview
-- `shattercore_hex_system.html` — interactive hex module grid
-- Fusion tables, 3D shard visuals, canonical link generators
+- `SHATTERCORE_KnowledgeBase_v1.0.md`: full modular documentation
+- `shattercore_hex_system.html`: interactive hex grid mockup
+- Fusion logic matrix (submodule merger examples)
+- Real shard links and 3D narrative chain visualizations
+
+---
+
+## Use Cases
+
+- Worldbuilding systems
+- Interactive fiction engines
+- Writer AI interfaces
+- Modular screenplay outlines
+- Game narrative design
 
 ---
 
 ## License
 
-This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+This project is licensed under the **MIT License**.
 
-You are free to **use, remix, and adapt** SHATTERCORE for personal or experimental use.  
-**Commercial applications require explicit permission.**
-
----
-
-## Next Steps
-
-- Make the hex UI fully interactive (drag-drop, click-expand)
-- Build tools like: Shard Link Builder, Voice Filter, Plot-Emotion Mapper
-- Version control your own canon and modular story systems
+You are free to use, modify, distribute, and build upon SHATTERCORE —  
+for personal, educational, or commercial purposes.  
+Just include attribution.
 
 ---
 
-Made with intention. Built for recursion.  
-**SHATTERCORE is yours to extend.**
+## What's Next
+
+- Make the hex UI interactive (drag, combine, expand)
+- Build live tools for linking shards into chains
+- Deploy as a narrative toolkit, API, or GPT extension
+- Expand into SHATTERCORE v2 with collaborative plugin architecture
+
+---
+
+Created for modular myth-making.  
+Designed to scale across consciousness and code.
